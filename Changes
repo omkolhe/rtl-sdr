@@ -1,0 +1,6 @@
+rtlsdr_cancel_async
+rtlsdr_callback ------  maybe
+rtlsdr_read_async
+rtlsdr_open
+rtlsdr_close
+controller_thread_fn
